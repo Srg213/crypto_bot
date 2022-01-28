@@ -26,7 +26,11 @@ This sample **requires** prerequisites in order to run.
 - Launch Bot Framework Emulator
 - Enter a Bot URL of `http://localhost:3978/api/messages`
 
-##References
+### Telegram Channel
+I have created channel on telegram (https://telegram.me/Crypto_alerts1_bot). Download telegram app before using the bot.
+
+
+## References
 
 - [Bot Framework Documentation](https://docs.botframework.com)
 - [Bot Basics](https://docs.microsoft.com/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0)
