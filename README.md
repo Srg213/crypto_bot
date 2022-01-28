@@ -9,14 +9,15 @@ I have created channel on telegram (https://telegram.me/Crypto_alerts1_bot). Dow
 
 ## Prerequisites
 
-This sample **requires** prerequisites in order to run.
+This sample **requires** prerequisites in order to run. 
+### Install Python 3.6
+
 
 ## Description
 The core idea of the project is to alert the user of drastic price changes and provide real-time market data. The alerts set by the user can help him to enter or close a trade based on his trading margins. These alerts can be set by the user on simple messaging platform like Telegram. The bot is developed using Bot Framework SDK and deployed on Azure Bot Service. 
 
-### Install Python 3.6
 
-## Running the sample
+## Downloading and Running the sample
 - Run `pip install -r requirements.txt` to install all dependencies
 - Run `python app.py`
 
