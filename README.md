@@ -4,6 +4,9 @@ Crypto Bot
 
 This bot has been created using [Bot Framework](https://dev.botframework.com).
 
+### Telegram Channel
+I have created channel on telegram (https://telegram.me/Crypto_alerts1_bot). Download telegram app before using the bot.
+
 ## Prerequisites
 
 This sample **requires** prerequisites in order to run.
@@ -25,9 +28,6 @@ This sample **requires** prerequisites in order to run.
 
 - Launch Bot Framework Emulator
 - Enter a Bot URL of `http://localhost:3978/api/messages`
-
-### Telegram Channel
-I have created channel on telegram (https://telegram.me/Crypto_alerts1_bot). Download telegram app before using the bot.
 
 
 ## References
