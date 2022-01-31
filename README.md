@@ -1,8 +1,9 @@
-# Crypto_BOT
+# Crypto_Bot
 
-Crypto Bot
 
 This bot has been created using [Bot Framework](https://dev.botframework.com).
+## Edit
+Added azure commands file as a batch file. [./azurecommands.bat].
 
 ### Telegram Channel
 I have created channel on telegram (https://telegram.me/Crypto_alerts1_bot). Download telegram app before using the bot.
