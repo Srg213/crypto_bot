@@ -4,7 +4,7 @@
 This bot has been created using [Bot Framework](https://dev.botframework.com).
 ## Edit
 Added azure commands file as a [batch file](https://github.com/Srg213/crypto_bot/blob/main/azurecommands.bat)
-The deployment templates are also added. These steps will deploy the bot to a new resource group. If you want to deploy to an existing resource group, refer to the [documentation](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-deploy-basic-bot?view=azure-bot-service-4.0&tabs=python%2Cuserassigned#deploy-via-arm-template-with-existing-resource-group).
+The deployment ARM templates are also added. These steps will deploy the bot to a new resource group and new service plan. If you want to deploy to an existing resource group, refer to the [documentation](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-deploy-basic-bot?view=azure-bot-service-4.0&tabs=python%2Cuserassigned#deploy-via-arm-template-with-existing-resource-group).
 
 ### Telegram Channel
 I have created channel on telegram (https://telegram.me/Crypto_alerts1_bot). Download telegram app before using the bot.
@@ -21,8 +21,8 @@ The core idea of the project is to alert the user of drastic price changes and p
 
 ## Downloading and Running the sample
 - Run `pip install -r requirements.txt` to install all dependencies
+- Check that the cookiecutter package was installed correctly by running cookiecutter --help
 - Run `python app.py`
-
 
 ## Testing the bot using Bot Framework Emulator
 
