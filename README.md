@@ -5,6 +5,7 @@ This bot has been created using [Bot Framework](https://dev.botframework.com).
 ## Edit
 Added azure commands file as a [batch file](https://github.com/Srg213/crypto_bot/blob/main/azurecommands.bat)
 The deployment ARM templates are also added. These steps will deploy the bot to a new resource group and new service plan. If you want to deploy to an existing resource group, refer to the [documentation](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-deploy-basic-bot?view=azure-bot-service-4.0&tabs=python%2Cuserassigned#deploy-via-arm-template-with-existing-resource-group).
+Added a demo video.(https://csg1003200057a8951f.blob.core.windows.net/crypto-bot-demo/WhatsApp%20Video%202022-01-31%20at%205.09.48%20PM.mp4?sp=r&st=2022-01-31T11:50:22Z&se=2022-01-31T19:50:22Z&spr=https&sv=2020-08-04&sr=b&sig=RNZpcdgb9RMO%2F9J91GLESCp6THIUDEC55HO9%2BWr9Bfo%3D).
 
 ### Telegram Channel
 I have created channel on telegram (https://telegram.me/Crypto_alerts1_bot). Download telegram app before using the bot.
