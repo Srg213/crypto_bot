@@ -8,7 +8,7 @@ The deployment ARM templates are also added. These steps will deploy the bot to 
 Also added a [demo video](https://csg1003200057a8951f.blob.core.windows.net/crypto-bot-demo/WhatsApp%20Video%202022-01-31%20at%205.09.48%20PM.mp4?sp=r&st=2022-01-31T11:50:22Z&se=2022-01-31T19:50:22Z&spr=https&sv=2020-08-04&sr=b&sig=RNZpcdgb9RMO%2F9J91GLESCp6THIUDEC55HO9%2BWr9Bfo%3D).
 
 ### Telegram Channel
-I have created channel on telegram (https://telegram.me/Crypto_alerts1_bot). Download telegram app before using the bot.
+I have created bot on telegram (https://telegram.me/Crypto_alerts1_bot). Download telegram app before using the bot.
 
 ## Prerequisites
 
