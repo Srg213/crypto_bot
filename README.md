@@ -10,8 +10,9 @@ Also added a [demo video](https://csg1003200057a8951f.blob.core.windows.net/cryp
 ### Telegram Channel
 I have created bot on telegram (https://telegram.me/Crypto_alerts1_bot). Download telegram app before using the bot.
 Images-
-<img src="https://github.com/Srg213/crypto_bot/blob/main/Images/Crypto_bot%20Telegram.jpeg" width="250"/>
-https://github.com/Srg213/crypto_bot/blob/main/Images/Crypto_bot%20Telegram.jpeg
+<img src="https://github.com/Srg213/crypto_bot/blob/main/Images/Crypto_bot%20Telegram.jpeg" width="275"/>
+<img src="https://github.com/Srg213/crypto_bot/blob/main/Images/alert_request.jpeg" width="275"/>
+
 ## Prerequisites
 
 This sample **requires** prerequisites in order to run. 
