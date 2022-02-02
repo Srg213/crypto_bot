@@ -9,10 +9,17 @@ Also added a [demo video](https://csg1003200057a8951f.blob.core.windows.net/cryp
 
 ### Telegram Channel
 I have created bot on telegram (https://telegram.me/Crypto_alerts1_bot). Download telegram app before using the bot.
+
 Images-
+
 <img src="https://github.com/Srg213/crypto_bot/blob/main/Images/Crypto_bot%20Telegram.jpeg" width="275"/>
 <br>
 <img src="https://github.com/Srg213/crypto_bot/blob/main/Images/alert_request.jpeg" width="275"/>
+
+
+## Azure Service
+The bot is created using Bot Framework SDK and deployed on Azure Bot Service. Following Packages are used- botbuilder-core, asyncio, cookiecutter, aionhttp. The bot is tested on Bot Framework Emulator.
+The bot is deployed in new resource group using ARM Template. It is deployed using a new app service plan and web app. The deployment commands are mentioned in [this file](https://github.com/Srg213/crypto_bot/blob/main/azurecommands.bat).
 
 ## Prerequisites
 
